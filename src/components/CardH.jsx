@@ -43,7 +43,7 @@ export default function CardH({ image, service, description, remote, cost, time,
                     <div className="flex items-center">
                         {/* <img className="w-10 h-10 rounded-full mr-4" src={image} alt="Avatar of Jonathan Reinink" /> */}
                         <div className="text-sm">
-                            <p className="text-gray-900 leading-none">Tiempo de entrega</p>
+                            <p className="text-gray-900 leading-none">Tiempo de intervencion</p>
                             <p className="text-gray-600">{time}</p>
                         </div>
                     </div>
