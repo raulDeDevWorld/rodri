@@ -3,14 +3,13 @@ import { initializeApp } from "firebase/app";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDM7t9Lcuo3ozMIgCfwKr6MuVY2UchYBy8",
-  authDomain: "alvarogc-3c320.firebaseapp.com",
-  databaseURL: "https://alvarogc-3c320-default-rtdb.firebaseio.com",
-  projectId: "alvarogc-3c320",
-  storageBucket: "alvarogc-3c320.appspot.com",
-  messagingSenderId: "64350898482",
-  appId: "1:64350898482:web:9e75be30b699ad8ae42f2b",
-  measurementId: "G-TW320WHTMS"
+  apiKey: "AIzaSyDjUQ6ju__Ef6pgpM8CI82A3fux9M3S0bI",
+  authDomain: "empresa-dental-house.firebaseapp.com",
+  databaseURL: "https://empresa-dental-house-default-rtdb.firebaseio.com",
+  projectId: "empresa-dental-house",
+  storageBucket: "empresa-dental-house.appspot.com",
+  messagingSenderId: "41756140586",
+  appId: "1:41756140586:web:5eb09d1a1c4b23060a8f53"
 };
 
 export const app = initializeApp(firebaseConfig);
